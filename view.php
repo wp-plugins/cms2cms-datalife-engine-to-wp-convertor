@@ -34,12 +34,12 @@ class CmsPluginView
 
     public function getPluginSourceName()
     {
-        return $this->__('DATALIFE ENGINE', 'cms2cms-mirgation');
+        return $this->__('Dle', 'cms2cms-mirgation');
     }
 
     public function getPluginSourceType()
     {
-        return 'DATALIFE ENGINE';
+        return 'Dle';
     }
 
     public function getPluginTargetName()
