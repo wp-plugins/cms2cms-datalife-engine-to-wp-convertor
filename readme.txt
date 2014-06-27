@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS: DataLife Engine to WordPress Converter   ===
 Contributors: cms2cms
-Tags: DataLife Engine to wordpress, DataLife Engine to wordpress mirgation, convert DataLife Engine to wordpress, migrate DataLife Engine to wordpress, DLE to WordPress
+Tags: DataLife Engine to wordpress, DataLife Engine to wordpress migration, convert DataLife Engine to wordpress, migrate DataLife Engine to wordpress, DLE to WordPress, comments, posts, images, plugin
 Requires at least: 3.0.0
 Tested up to: 3.9.1
 Stable tag: 3.6.2
