@@ -15,6 +15,9 @@ With the help of this plugin you will be able to transfer your website from Data
 
 = Supported versions: DataLife Engine 1.0 and WordPress 3.x. =
 
+* *There is Free Demo available (migration of limited number of pages, users, comments).*
+* *Full Migration starts from $39.*
+
 = Items that can be migrated:  =
 * Category
 * Comment
@@ -30,12 +33,14 @@ With the help of this plugin you will be able to transfer your website from Data
 * free Demo migration - convert up to 10 pages.
 * test site - migrate to the test site if you do not have live one.
 
+= Video =
+[youtube https://www.youtube.com/watch?v=8kIEc0xv6GE]
+
 **Please note. It supports content migration only, the theme won’t be converted into WordPress.**
 
 This plugin installs the connection bridge on your WordPress, which is required for content conversion from the DataLife Engine to WordPress websites. After the activation be ready for redirection to CMS2CMS website in order to set up the conversion. 
 
 For more details on automated conversion from DataLife Engine to WordPress, see here: http://www.cms2cms.com/supported-cms/datalife-engine-to-wordpress-migration/
-
 
 == Installation ==
 
