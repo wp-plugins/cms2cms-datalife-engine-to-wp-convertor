@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: DataLife Engine to wordpress, DataLife Engine to wordpress migration, convert DataLife Engine to wordpress, migrate DataLife Engine to wordpress, DLE to WordPress, comments, posts, images, plugin
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,7 +13,7 @@ With the help of this plugin you will be able to transfer your website from Data
 
 With the help of this plugin you will be able to transfer your website from DataLife Engine to WordPress in a few easy steps. The whole process is automated and takes 15 mins on average, depending on the amount of your site content. 
 
-= Supported versions: DataLife Engine 1.0 and WordPress 3.x. =
+= Supported versions: DataLife Engine 1.0 and WordPress 4.x. =
 
 * *There is Free Demo available (migration of limited number of pages, users, comments).*
 * *Full Migration starts from $39.*
@@ -40,7 +40,7 @@ With the help of this plugin you will be able to transfer your website from Data
 
 This plugin installs the connection bridge on your WordPress, which is required for content conversion from the DataLife Engine to WordPress websites. After the activation be ready for redirection to CMS2CMS website in order to set up the conversion. 
 
-For more details on automated conversion from DataLife Engine to WordPress, see here: http://www.cms2cms.com/supported-cms/datalife-engine-to-wordpress-migration/
+For more details on automated conversion from DataLife Engine to WordPress, see here: http://www.cms2cms.com/supported-cms/datalife-engine-to-wordpress-migration/?utm_source=DLE&utm_medium=Link&utm_campaign=WordPress_plugins
 
 == Installation ==
 
