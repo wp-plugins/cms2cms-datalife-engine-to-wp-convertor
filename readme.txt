@@ -16,7 +16,7 @@ With the help of this plugin you will be able to transfer your website from Data
 = Supported versions: DataLife Engine 1.0 and WordPress 4.x. =
 
 * *There is Free Demo available (migration of limited number of pages, users, comments).*
-* *Full Migration starts from $39.*
+* *Full Migration starts from $49.*
 
 = Items that can be migrated:  =
 * Category
