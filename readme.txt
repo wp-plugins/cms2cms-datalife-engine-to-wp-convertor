@@ -40,10 +40,10 @@ With the help of this plugin you will be able to transfer your website from Data
 
 This plugin installs the connection bridge on your WordPress, which is required for content conversion from the DataLife Engine to WordPress websites. After the activation be ready for redirection to CMS2CMS website in order to set up the conversion. 
 
-Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
-Phone support – 24 hours a day, Monday – Friday
-Live Chat support – 24 hours a day, Monday – Friday
-Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+= Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours: = 
+- Phone support – 24 hours a day, Monday – Friday
+- Live Chat support – 24 hours a day, Monday – Friday
+- Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
 
 For more details on automated conversion from DataLife Engine to WordPress, see here: http://www.cms2cms.com/supported-cms/datalife-engine-to-wordpress-migration/?utm_source=DLE&utm_medium=Link&utm_campaign=WordPress_plugins
 
