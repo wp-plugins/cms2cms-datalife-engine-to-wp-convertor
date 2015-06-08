@@ -13,7 +13,7 @@ With the help of this plugin you will be able to transfer your website from Data
 
 With the help of this plugin you will be able to transfer your website from DataLife Engine to WordPress in a few easy steps. The whole process is automated and takes 15 mins on average, depending on the amount of your site content. 
 
-= Supported versions: DataLife Engine 1.0 and WordPress 4.x. =
+= Supported versions: DataLife Engine 1.0 and WordPress 3.x. =
 
 * *There is Free Demo available (migration of limited number of pages, users, comments).*
 * *Full Migration starts from $39.*
@@ -61,7 +61,7 @@ For more details on automated conversion from DataLife Engine to WordPress, see 
 = Your website is unreachable =
 <p>If your website cannot be reached, pay attention to the following points:
 Make sure your site is available online at the moment.
-It’s possible that your firewall blocks certain IP requests. Contact your system administrator or hosting provider support for details about this issue.</p>
+It is possible that your firewall blocks certain IP requests. Contact your system administrator or hosting provider support for details about this issue.</p>
 
 = Your server responds with 401 Unauthorized =
 <p>If you get this error, try the following solutions:
